@@ -6,7 +6,8 @@ Aplicación hecha con React que elige un país al azar y muestra su nombre, su b
 
 ## Interfáz grafica
 
-![Uploading image.png…]()
+<img width="952" height="469" alt="image" src="https://github.com/user-attachments/assets/8e3b5861-1aaf-47a5-ba0c-335be018d072" />
+
 
 
 ## Funcionalidades
