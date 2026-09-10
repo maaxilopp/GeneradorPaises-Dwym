@@ -1,0 +1,59 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  font-family: system-ui, sans-serif;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+.card h1 {
+  margin: 0;
+  font-size: 1.8rem;
+  color: black;
+}
+.code {
+  font-size: 0.9rem;
+  opacity: 0.5;
+}
+.flag {
+  width: 220px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
+.clock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+}
+.digital {
+  font-size: 1.6rem;
+  font-variant-numeric: tabular-nums;
+  margin: 0.5rem 0 0;
+}
+.tz {
+  margin: 0;
+  opacity: 0.6;
+  font-size: 0.85rem;
+}
+.error {
+  color: #c00;
+}
+button {
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+}
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+}
